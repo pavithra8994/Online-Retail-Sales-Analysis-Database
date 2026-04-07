@@ -3,8 +3,8 @@ I created four tables: Customers, Products, Orders, and Order_Items. These table
 
 #Using SQL queries, I was able to:
 
-Find top-selling products
-Identify the most valuable customer
-Calculate monthly revenue
-Analyze sales based on product categories
-Detect inactive customers who have not placed any orders
+#Find top-selling products
+#Identify the most valuable customer
+#Calculate monthly revenue
+#Analyze sales based on product categories
+#Detect inactive customers who have not placed any orders
